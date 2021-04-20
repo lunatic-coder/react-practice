@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.signinbtn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  }
+
+  .navbar-nav {
+    flex-direction: row;
+  }
+
+  .nav-link {
+    padding-right: .5rem !important;
+    padding-left: .5rem !important;
+  }
+
+  .ml-auto .dropdown-menu {
+    left: auto !important;
+    right: 0px;
+  }
+
+  .div {
+    text-align: center;
+  }
